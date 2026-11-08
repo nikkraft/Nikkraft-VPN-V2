@@ -1,0 +1,7 @@
+# Демо-файл: по одному конфигу в строке (комментарии с # пропускаются)
+vless://aaa@good1.example:443#US-1
+vless://aaa@good2.example:443#SE-1
+trojan://pass@good3.example:443#NL-1
+vless://aaa@old.example:443#DE-expired
+vless://aaa@x.example:443#off-RU
+vless://aaa@badhost.example:443#PL-1
